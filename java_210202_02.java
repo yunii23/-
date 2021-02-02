@@ -1,3 +1,4 @@
+import java.util.HashMap;
 import java.util.Scanner;
 
 public class java_210202_02 {
@@ -13,20 +14,13 @@ public class java_210202_02 {
 
         sc.close();
         
+        HashMap<Integer, Integer> map = new HashMap<Integer, Integer>();
+
         for(int i=0; i<10; i++) {
             arr[i] = arr[i] % 42;
-            System.out.println(arr[i]);
-        }
-        
-        int count = 0;
-
-        for(int i=0; i<10; i++) {
-            for(int j=0; j<10; j++) {
-                
-            }
+            map.put(arr[i], arr[i]);
         }
 
-        
-        System.out.println(count);
+        System.out.println(map.size());
     }
 }
