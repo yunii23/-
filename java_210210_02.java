@@ -9,6 +9,17 @@ public class java_210210_02 {
 
         sc.close();
 
+        String ab = "abcdefghijklmnopqrstuvwxyz";
+
+        char[] arr = new char[s.length()];
+
+        for(int i=0; i<s.length(); i++) {
+
+            arr[i] = s.charAt(i);
+        }
+
+        
+
         
     }
 }
