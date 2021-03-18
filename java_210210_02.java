@@ -9,7 +9,7 @@ public class java_210210_02 {
 
         sc.close();
 
-        String ab = "abcdefghijklmnopqrstuvwxyz";
+        //String ab = "abcdefghijklmnopqrstuvwxyz";
 
         char[] arr = new char[s.length()];
 
