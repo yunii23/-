@@ -1,0 +1,210 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch study_210323",
+            "request": "launch",
+            "mainClass": "study_210323",
+            "projectName": "Algorithm_f28289fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_201230_01",
+            "request": "launch",
+            "mainClass": "java_201230_01",
+            "projectName": "Algorithm_f28289fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_201230_02",
+            "request": "launch",
+            "mainClass": "java_201230_02",
+            "projectName": "Algorithm_f28289fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_201230_03",
+            "request": "launch",
+            "mainClass": "java_201230_03",
+            "projectName": "Algorithm_f28289fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_201230_04",
+            "request": "launch",
+            "mainClass": "java_201230_04",
+            "projectName": "Algorithm_f28289fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_201231_01",
+            "request": "launch",
+            "mainClass": "java_201231_01",
+            "projectName": "Algorithm_f28289fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_210101_01",
+            "request": "launch",
+            "mainClass": "java_210101_01",
+            "projectName": "Algorithm_f28289fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_210202_01",
+            "request": "launch",
+            "mainClass": "java_210202_01",
+            "projectName": "Algorithm_f28289fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_210202_02",
+            "request": "launch",
+            "mainClass": "java_210202_02",
+            "projectName": "Algorithm_f28289fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_210202_03",
+            "request": "launch",
+            "mainClass": "java_210202_03",
+            "projectName": "Algorithm_f28289fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_210203_01",
+            "request": "launch",
+            "mainClass": "java_210203_01",
+            "projectName": "Algorithm_f28289fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_210203_02",
+            "request": "launch",
+            "mainClass": "java_210203_02",
+            "projectName": "Algorithm_f28289fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_210208_01",
+            "request": "launch",
+            "mainClass": "java_210208_01",
+            "projectName": "Algorithm_f28289fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_210208_02",
+            "request": "launch",
+            "mainClass": "java_210208_02",
+            "projectName": "Algorithm_f28289fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_210208_03",
+            "request": "launch",
+            "mainClass": "java_210208_03",
+            "projectName": "Algorithm_f28289fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_210209_01",
+            "request": "launch",
+            "mainClass": "java_210209_01",
+            "projectName": "Algorithm_f28289fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_210209_02",
+            "request": "launch",
+            "mainClass": "java_210209_02",
+            "projectName": "Algorithm_f28289fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_210210_01",
+            "request": "launch",
+            "mainClass": "java_210210_01",
+            "projectName": "Algorithm_f28289fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_210210_02",
+            "request": "launch",
+            "mainClass": "java_210210_02",
+            "projectName": "Algorithm_f28289fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_210215_01",
+            "request": "launch",
+            "mainClass": "java_210215_01",
+            "projectName": "Algorithm_f28289fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_210215_02",
+            "request": "launch",
+            "mainClass": "java_210215_02",
+            "projectName": "Algorithm_f28289fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_210215_03",
+            "request": "launch",
+            "mainClass": "java_210215_03",
+            "projectName": "Algorithm_f28289fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_210303_01",
+            "request": "launch",
+            "mainClass": "java_210303_01",
+            "projectName": "Algorithm_f28289fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch java_210318_01",
+            "request": "launch",
+            "mainClass": "java_210318_01",
+            "projectName": "Algorithm_f28289fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch study_210318",
+            "request": "launch",
+            "mainClass": "study_210318",
+            "projectName": "Algorithm_f28289fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch study_210319",
+            "request": "launch",
+            "mainClass": "study_210319",
+            "projectName": "Algorithm_f28289fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch study_210319_answer",
+            "request": "launch",
+            "mainClass": "study_210319_answer",
+            "projectName": "Algorithm_f28289fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch study_210322",
+            "request": "launch",
+            "mainClass": "study_210322",
+            "projectName": "Algorithm_f28289fe"
+        }
+    ]
+}
