@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch study_210406",
+            "request": "launch",
+            "mainClass": "study_210406",
+            "projectName": "Algorithm_f28289fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch study_210405",
+            "request": "launch",
+            "mainClass": "study_210405",
+            "projectName": "Algorithm_f28289fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch study_210402",
+            "request": "launch",
+            "mainClass": "study_210402",
+            "projectName": "Algorithm_f28289fe"
+        },
+        {
+            "type": "java",
             "name": "Launch study_210401",
             "request": "launch",
             "mainClass": "study_210401",
