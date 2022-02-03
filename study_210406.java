@@ -32,7 +32,7 @@ public class study_210406 {
 
             A = new int[N][N]; //행렬 A
 
-            vList = new ArrayList[N];
+            //vList = new ArrayList[N];
             for(int j=0; j<vList.length; j++) {
                 vList[i] = new ArrayList<Integer>();
                 

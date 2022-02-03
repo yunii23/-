@@ -25,5 +25,7 @@ public class java_210215_02 {
             System.out.println(n);
         }
 
+        sc.close();
+
     }
 }

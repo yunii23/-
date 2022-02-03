@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ex",
+            "request": "launch",
+            "mainClass": "ex",
+            "projectName": "Algorithm_f28289fe"
+        },
+        {
+            "type": "java",
             "name": "Launch study_210406",
             "request": "launch",
             "mainClass": "study_210406",
